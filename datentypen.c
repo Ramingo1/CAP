@@ -3,7 +3,8 @@
 #include <float.h>
 
 int main() {
-
+    
+    printf("Mariam");
     printf("Speichergröße der Datentypen (in Bytes):\n");
     printf("char: %zu Byte\n", sizeof(char));
     printf("int: %zu Bytes\n", sizeof(int));
